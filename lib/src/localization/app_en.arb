@@ -1,0 +1,6 @@
+{
+  "appTitle": "proj_1_expense_tracker",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
